@@ -1,0 +1,24 @@
+{
+  "name": "img2pdf",
+  "version": "1.0.0",
+  "description": "convert image to pdf",
+  "main": "image2pdf.js",
+  "dependencies": {
+    "canvas": "^1.6.11",
+    "chalk": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "pdf",
+    "image",
+    "png",
+    "jpg",
+    "convert"
+  ],
+  "author": "hufei",
+  "license": "ISC"
+}
