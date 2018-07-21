@@ -1,0 +1,14 @@
+{
+  "name": "image2pdf",
+  "version": "1.0.0",
+  "description": "png or jpg convert into PDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pdf"
+  ],
+  "author": "hufei",
+  "license": "ISC"
+}
