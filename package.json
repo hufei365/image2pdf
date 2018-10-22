@@ -10,5 +10,9 @@
     "pdf"
   ],
   "author": "hufei",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "pdfkit": "^0.8.3"
+  }
 }
